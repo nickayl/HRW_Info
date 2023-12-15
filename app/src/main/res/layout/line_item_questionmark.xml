@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/questionmark_layout_rootView"
+    android:layout_width="match_parent"
+    android:layout_height="45dp">
+
+    <TextView
+        android:id="@+id/line_item_textView"
+        style="@style/LineItemTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="15dp"
+        android:text="TextView" />
+
+    <TextView
+        android:id="@+id/textView2"
+        style="@style/LineItem"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="3dp"
+        android:layout_toEndOf="@+id/line_item_textView"
+        android:text=":" />
+
+    <TextView
+        android:id="@+id/lineItemTextContent"
+        style="@style/LineItem"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_centerInParent="false"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="15dp"
+        android:layout_toRightOf="@+id/questionmark_box"
+        android:gravity="left|fill_horizontal"
+        android:text="Qualcomm Snapdragon 810"
+        android:textAlignment="textEnd" />
+
+    <TextView
+        android:id="@+id/questionmark_box"
+        android:layout_width="25dp"
+        android:layout_height="25dp"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:layout_toRightOf="@+id/textView2"
+        android:background="@drawable/questionmark_background"
+        android:gravity="center"
+        android:text=""
+        android:textColor="@color/question_mark_box_text"
+        android:textSize="15sp" />
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_alignParentBottom="true"
+        android:background="@color/lineItemBottomLine">
+
+    </FrameLayout>
+</RelativeLayout>

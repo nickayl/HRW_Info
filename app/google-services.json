@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "340301709404",
+    "firebase_url": "https://test-f066d.firebaseio.com",
+    "project_id": "test-f066d",
+    "storage_bucket": "test-f066d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:340301709404:android:e27a00fc2de66a05",
+        "android_client_info": {
+          "package_name": "com.domenicoaiello.devicespecs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "340301709404-28s7el0g935dvme9u56bm40id84ime4n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQVHY0EcPJpD2Fn7Omw7SCzAUaw3yB0eY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

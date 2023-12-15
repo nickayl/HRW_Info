@@ -1,0 +1,5 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="questionmark_box_width">25dp</dimen>
+    <dimen name="questionmark_box_height">25dp</dimen>
+</resources>

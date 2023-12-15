@@ -1,0 +1,10 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="TabStyle">
+        <item name="android:background">@color/tabViewBackground</item>
+        <item name="android:textColor">@color/tabViewTextColor</item>
+        <item name="android:textSize">@dimen/tabViewTextSize</item>
+    </style>
+
+</resources>

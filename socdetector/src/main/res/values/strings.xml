@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SocDetector</string>
+    <string name="arm_descr">ARM (Advanced RISC Machine), is a family of reduced instruction set computing (RISC) architectures for computer processors, developed by the british company ARM Holdings. </string>
+    <string name="nvidia_descr">@string/arm_descr</string>
+    <string name="mediatek_processor">@string/arm_descr</string>
+    <string name="intel_descr">Intel Atom is the brand name for a line of ultra-low-voltage IA-32 and x86-64 microprocessors by Intel Corporation.</string>
+</resources>

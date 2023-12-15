@@ -1,0 +1,38 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+    </style>
+
+    <style name="ToolbarStyle">
+        <item name="android:textColor">@color/textColorForColorPrimary</item>
+        <item name="android:textSize">@dimen/toolbarTitle</item>
+
+        <item name="colorControlNormal">@color/textColorForColorPrimary</item>
+    </style>
+
+    <style name="LineItem">
+        <item name="android:textColor">@color/lineItemTextColor</item>
+        <item name="android:textSize">@dimen/lineItemTextSize</item>
+    </style>
+
+    <style name="LineItemTitle">
+        <item name="android:textColor">@color/lineItemTitleColor</item>
+        <item name="android:textSize">@dimen/lineItemTitleSize</item>
+    </style>
+
+    <style name="TabStyle">
+        <item name="android:background">@color/tabViewBackground</item>
+        <item name="android:textColor">@color/tabViewTextColor</item>
+        <item name="android:textSize">@dimen/tabViewTextSize</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+</resources>

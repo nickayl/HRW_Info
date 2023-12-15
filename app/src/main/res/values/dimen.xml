@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="toolbarTitle">18dp</dimen>
+    <dimen name="lineItemTextSize">14dp</dimen>
+    <dimen name="lineItemTitleSize">15dp</dimen>
+    <dimen name="tabViewTextSize">15dp</dimen>
+</resources>

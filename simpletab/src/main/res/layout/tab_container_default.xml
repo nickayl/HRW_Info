@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.domenicoaiello.simpletab.TabContainer
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/tabContainer"
+    android:layout_width="match_parent"
+    android:layout_height="50dp"
+    android:background="@color/tabViewBackground">
+
+   <!-- <LinearLayout
+        android:id="@+id/tabs"
+        style="@style/TabStyle"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal">
+
+    </LinearLayout> -->
+</com.domenicoaiello.simpletab.TabContainer>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DeviceSpecs.iml" filepath="$PROJECT_DIR$/DeviceSpecs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/DeviceSpecs.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/DeviceSpecs.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/DeviceSpecs.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/DeviceSpecs.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/DeviceSpecs.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/DeviceSpecs.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/DeviceSpecs.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/DeviceSpecs.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/simplepopup/DeviceSpecs.simplepopup.iml" filepath="$PROJECT_DIR$/.idea/modules/simplepopup/DeviceSpecs.simplepopup.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/simplepopup/DeviceSpecs.simplepopup.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/simplepopup/DeviceSpecs.simplepopup.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/simplepopup/DeviceSpecs.simplepopup.main.iml" filepath="$PROJECT_DIR$/.idea/modules/simplepopup/DeviceSpecs.simplepopup.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/simplepopup/DeviceSpecs.simplepopup.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/simplepopup/DeviceSpecs.simplepopup.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/simpletab/DeviceSpecs.simpletab.iml" filepath="$PROJECT_DIR$/.idea/modules/simpletab/DeviceSpecs.simpletab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/simpletab/DeviceSpecs.simpletab.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/simpletab/DeviceSpecs.simpletab.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/simpletab/DeviceSpecs.simpletab.main.iml" filepath="$PROJECT_DIR$/.idea/modules/simpletab/DeviceSpecs.simpletab.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/simpletab/DeviceSpecs.simpletab.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/simpletab/DeviceSpecs.simpletab.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/socdetector/DeviceSpecs.socdetector.iml" filepath="$PROJECT_DIR$/.idea/modules/socdetector/DeviceSpecs.socdetector.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/socdetector/DeviceSpecs.socdetector.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/socdetector/DeviceSpecs.socdetector.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/socdetector/DeviceSpecs.socdetector.main.iml" filepath="$PROJECT_DIR$/.idea/modules/socdetector/DeviceSpecs.socdetector.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/socdetector/DeviceSpecs.socdetector.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/socdetector/DeviceSpecs.socdetector.unitTest.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0071c5</color>
+    <color name="colorPrimaryDark">#0066b3</color>
+    <color name="colorAccent">#252525</color>
+    <color name="textColorForColorPrimary">#f3f3f3</color>
+    <color name="lineItemTextColor">#555</color>
+
+    <color name="recyclerview_background">#f3f3f3</color>
+    <color name="lineItemBottomLine">#e2e2e2</color>
+    <color name="lineItemTitleColor">#0071c5</color>
+
+    <color name="tabViewBackground">#252525</color>
+    <color name="tabViewTextColor">#fff</color>
+
+    <color name="question_mark_box">#f3d54e</color>
+    <color name="question_mark_box_text">#555</color>
+    <color name="tabViewSelectedColor">@color/colorPrimaryDark</color>
+
+    <!-- Tab view Electric Yellow -->
+
+    <!-- Tab view Smart Blue -->
+    <color name="smartblue_tab_background">#0468bf</color>
+    <color name="smartblue_tab_textcolor">#ffd900</color>
+    <color name="smartblue_tab_selected_background">@color/smartblue_tab_textcolor</color>
+    <color name="smartblue_tabcontainer_background">@color/smartblue_tab_background</color>
+
+</resources>
